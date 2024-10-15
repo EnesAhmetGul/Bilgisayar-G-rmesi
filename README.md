@@ -1,1 +1,1 @@
-# Bilgisayar-G-rmesi
+# Bilgisayar Gormesi
