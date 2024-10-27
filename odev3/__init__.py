@@ -1,3 +1,4 @@
+# Hocam türevler tablosunda şekil biraz zor görünüyor ama dikkatli bakarsanız orada olduğunu görebilirsiniz
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
