@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['cekirdek', 'kayisi', 'yaprak']
+
+roboflow:
+  workspace: enes-ahmet-gul
+  project: odev1-4g2cr
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/enes-ahmet-gul/odev1-4g2cr/dataset/1
